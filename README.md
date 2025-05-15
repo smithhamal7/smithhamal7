@@ -11,22 +11,22 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FFDD57.svg?&style=for-the-badge&logo=vercel&logoColor=black" /></a>
   <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:smithhamal001@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🧰 Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,github,vscode" />
 </div>
 
 ---
 
 ### 🧠 Currently Working On:
-- 🔥 A full-stack e-commerce platform: **The Admire**
-- 🛠 Integrating Khalti Payment Gateway
-- ✨ Crafting responsive UI like Nike.com & InstyleNepal.com
+- 🔥 A full-stack e-commerce platform: **Final**
+- 🛠 Integrating Khalti Payment Gateway and Esewa Payment Gateway
+- ✨ Crafting responsive UI
 
 ---
 
@@ -50,6 +50,5 @@
 ### ☕ Let's Connect!
 > "Code is like humor. When you have to explain it, it’s bad."
 
----
 
 
